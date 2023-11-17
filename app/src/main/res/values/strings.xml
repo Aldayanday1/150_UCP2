@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UCP2</string>
+    <string name="nama">Nama Pelanggan</string>
+    <string name="nim">NIM</string>
+    <string name="konsentrasi">Konsentrasi</string>
+    <string name="judul">Judul Skripsi</string>
+    <string name="dospemsatu">Dosen Pembimbing</string>
+    <string name="dosmpemdua">Dosen Pembimbing 2</string>
+    <string name="btn_submit">Selanjutnya</string>
+    <string name="btn_back">Batal</string>
+    <string name="next">Lanjut</string>
+</resources>
